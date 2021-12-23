@@ -1,0 +1,10 @@
+Online Quiz
+1.When the page opens it will ask for the name
+2.After entering the name you can click on start button,the quiz will be started
+3.There are 4 section 1. Angular
+2.HTML
+3.Java
+4.Typescript
+4.You can choose any of the section
+5.Each section consist of 5 question with 60 sec of time
+6.After competion of quiz it will display the result of the user
